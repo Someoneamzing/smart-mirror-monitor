@@ -1,24 +1,4 @@
 # smart-mirror-monitor
+A simple web based app designed to remotely monitor a smart mirror running [smart-mirror](https://github.com/Someoneamzing/smart-mirror).
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+You can specify an IP and port to connect to and it will connect to the inbuilt web-socket monitor on the software.
